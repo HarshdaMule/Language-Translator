@@ -21,6 +21,3 @@ A simple Language Translator application built with Python. This project allows 
 pip install -r requirements.txt
 
 
-## 📸 Application Preview
-
-![Language Translator](Translator_Output.png)
